@@ -1,7 +1,7 @@
 Lessons for Adam
 ======
 
-##Lesson 1
+###Lesson 1
 - Download the github git client
 - Clone this repo
 - Make a new branch called "hello world"
