@@ -1,0 +1,53 @@
+html {
+  padding: 0px;
+}
+body {
+  background-color: grey;
+  font-family: "Helvetica Neue";
+  color: white;
+  font-weight: 100;
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  margin-top: 0px;
+  font-weight: 100;
+  color: white;
+  position: fixed;
+  width: 100%;
+  background-color: black;
+}
+
+.inner-body {
+  padding-top: 100px;
+}
+.boldy {
+  font-weight: 600;
+}
+
+.instinct {
+  color: yellow;
+  margin-left: 100px;
+}
+
+.valor {
+  color: red;
+  margin-right: 100px;
+}
+
+.mystic {
+  color: blue;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 20px;
+  border: 1px black solid;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.mystic:hover, .valor:hover {
+  text-decoration: underline;;
+  text-decoration-color: #ddd;
+}
